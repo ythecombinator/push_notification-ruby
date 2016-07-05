@@ -6,7 +6,7 @@
 
 <p align="center">
    Simple example on how to deliver iOS Push Notifications with Ruby.
-</p>-->
+</p>
 
 ## Table of Contents
 
